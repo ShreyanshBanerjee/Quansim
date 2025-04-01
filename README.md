@@ -1,6 +1,6 @@
 # Quansim, a Beginner-Friendly Quantum Computing Library
 
-***NOTE: As this is merely a simulation of a quantum computer, it is not truly random but rather pseudo-random, so results may not exactly align with expectations*** 
+***NOTE: As this is merely a simulation of a quantum computer running on a classical computer, measurements of quantum states within the simulation aren't truly probabilistic but rather pseudo-random, so results may not exactly align with expectations*** 
 ## What are Quantum Computers
 Quantum Computers are promising alternatives to the typical binary computers we use every day.
 They use aspects of quantum physics to speed up computation rapidly.
