@@ -8,6 +8,7 @@ They use aspects of quantum physics to speed up computation rapidly.
 Superposition is the primary ability which give quantum computers such an edge in performance in comparision to normal computers.
 Small enough particles can be in multiple possible states. The state they are in is truly random, which greatly contrasts the determinism of
 both classical and relativistic physics.  
+  
 A superposition can be modeled as a list of multiple complex numbers, each corresponding to a probability.
 Let's say we have a quantum bit in superposition of being off or on. The current state of the system can be modeled as:  
 #### [a<sub>1</sub>+b<sub>1</sub>i, a<sub>2</sub>+b<sub>2</sub>i],  
