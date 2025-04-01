@@ -1,4 +1,4 @@
-# Quansim, a Begginer-Friendly Quantum Computing Library
+# Quansim, a Beginner-Friendly Quantum Computing Library
 
 ***NOTE: As this is merely a simulation of a quantum computer, it is not truly random but rather pseudo-random, so results may not exactly align with expectations*** 
 ## What are Quantum Computers
